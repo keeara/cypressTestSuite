@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="5.786" tests="6" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-01-09T10:13:26" tests="0" file="todo.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="example to-do app" timestamp="2025-01-09T10:13:26" tests="3" time="5.745" failures="0">
+  </testsuite>
+  <testsuite name="with a checked task" timestamp="2025-01-09T10:13:30" tests="3" time="1.233" failures="0">
+  </testsuite>
+</testsuites>
